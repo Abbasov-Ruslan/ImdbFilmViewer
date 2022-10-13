@@ -1,0 +1,6 @@
+framework module Pods_ImdbFilmsViewer {
+  umbrella header "Pods-ImdbFilmsViewer-umbrella.h"
+
+  export *
+  module * { export * }
+}
